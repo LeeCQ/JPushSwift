@@ -1,0 +1,6 @@
+framework module Pods_JPushSwift_Example {
+  umbrella header "Pods-JPushSwift_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

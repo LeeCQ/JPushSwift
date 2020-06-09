@@ -1,0 +1,18 @@
+PODS:
+  - JPushSwift (0.1.0):
+    - JPushSwift/JPushSDK (= 0.1.0)
+  - JPushSwift/JPushSDK (0.1.0)
+
+DEPENDENCIES:
+  - JPushSwift (from `../`)
+
+EXTERNAL SOURCES:
+  JPushSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JPushSwift: 19be1fb6cf3166f5ea6c12a18593637d30ef27ca
+
+PODFILE CHECKSUM: 8a172df393645fdfa1093dedabd1287c7bfb9931
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JPushSwift_Example' do
+  pod 'JPushSwift', :path => '../'
+
+  target 'JPushSwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
